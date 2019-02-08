@@ -1,0 +1,7 @@
+arguments: server.py
+--------------------
+tensorflow version: 1.12.0
+--------------------
+git hash: b''
+--------------------
+b''
