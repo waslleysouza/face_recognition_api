@@ -3,12 +3,20 @@ This module serves as the API provider for face processing.
 """
 
 import io
+import os
 import json
 import face
 import multiprocessing
 import requests
 import utils
 
+
+# load settings
+with open("deployment.json", 'r') as f:
+    datastore = json.load(f)
+
+
+VIDEO_DIR = os.path.join(datastore["UPLOAD_DIR"], "video")
 
 processes = 3
 
@@ -39,6 +47,7 @@ def classify(file):
 
 def add(file, personName, rotate):
     print("Method", "add")
+    file.save(os.path.join(VIDEO_DIR, file.filename))
     pool = multiprocessing.pool.ThreadPool(processes=processes)
     pool.apply_async(utils.split_video, args=[file, personName, rotate])
     pool.close()

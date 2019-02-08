@@ -5,8 +5,10 @@
 
 ### FACE RECOGNITION SERVER
 
+0) If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev
+
 1) Update the deployment.json file with your credentials and folders information.
-2) Create a new Python or Anaconda environment: conda create -n facerec python=3.6
+2) Create a new Python or Anaconda environment: conda create -n facerec python=3.6 -y
 3) Activate your environment: activate facerec
 4) Install the packages of the requirement.txt file using PIP: pip install -r requirement.txt
 5) Start the application: python server.py

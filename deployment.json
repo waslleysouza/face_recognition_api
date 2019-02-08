@@ -1,5 +1,5 @@
 {
-    "SYNC_STORAGE_BUCKET": True,
+    "SYNC_STORAGE_BUCKET": false,
     "STORAGE_USER": "username",
     "STORAGE_PASS": "password",
     "STORAGE_IDENTITY": "identity_domain",

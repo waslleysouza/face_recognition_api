@@ -88,8 +88,9 @@ def split_video(video, name, rotate):
             # Save locally
             cv2.imwrite(image_path, frame)
             print("File", image_path, "created!")
-            frame_no += 1
-            count += 1
+        
+        frame_no += 1
+        count += 1
 
 
 def _get_rotate_code(rotate):
