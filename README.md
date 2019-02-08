@@ -3,7 +3,7 @@
 ![Architecture](architecture.png)
 
 
-## FACE RECOGNITION SERVER
+### FACE RECOGNITION SERVER
 
 1) Update the deployment.json file with your credentials and folders information.
 2) Create a new Python or Anaconda environment: conda create -n facerec python=3.6
@@ -13,7 +13,7 @@
 6) Open your browser and access: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
-## OPERATIONS
+### OPERATIONS
 
 1) /face/add: Add a new faces to the model
 2) /face/classify: Execute the face recognition
