@@ -5,7 +5,9 @@
 
 ### FACE RECOGNITION SERVER
 
-0) If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev
+If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev
+
+If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html) and add the bin folder to your system path.
 
 1) Update the deployment.json file with your credentials and folders information.
 2) Create a new Python or Anaconda environment: conda create -n facerec python=3.6 -y
@@ -17,7 +19,7 @@
 
 ### OPERATIONS
 
-1) /face/add: Add a new faces to the model
+1) /face/add: Add new faces to the model
 2) /face/classify: Execute the face recognition
 3) /face/restart: Reload the model
 4) /face/train: Train the model with new faces

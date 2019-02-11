@@ -43,13 +43,14 @@ paths:
           schema:
             type: string
           examples:
-            "text/json": "{result: 'Success', message: 'Video uploaded!'}"
+            "text/json": "{result: 'Success', message: 'File uploaded!'}"
       parameters:
         - name: file
           in: formData
-          description: Image file.
+          description: Image or video file.
           required: true
           type: file
+          x-mimetype: video/mp4
         - name: personName
           in: query
           description: Person name.
@@ -58,7 +59,7 @@ paths:
         - name: rotate
           in: query
           description: Rotate degree.
-          required: true
+          required: false
           type: string
 
   /face/train:

@@ -4,12 +4,13 @@
     "STORAGE_PASS": "password",
     "STORAGE_IDENTITY": "identity_domain",
     "STORAGE_BUCKET": "images",
-
+    
+    "UPLOAD_DIR": "./images/uploaded",
     "INPUT_DIR": "./images/original/",
     "OUTPUT_DIR": "./images/prepared/",
     "MODEL_PATH": "./model/20180402-114759.pb",
     "CLASSIFIER_PATH": "./classifier/classifier.pkl",
-    "UPLOAD_DIR": "./upload/",
-
-    "IMAGE_WIDTH": 150
+    
+    "IMAGE_WIDTH": 150,
+    "FRAMES_PER_VIDEO": 25
 }

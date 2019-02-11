@@ -16,7 +16,7 @@ with open("deployment.json", 'r') as f:
     datastore = json.load(f)
 
 
-VIDEO_DIR = os.path.join(datastore["UPLOAD_DIR"], "video")
+#VIDEO_DIR = os.path.join(datastore["UPLOAD_DIR"], "video")
 
 processes = 3
 
@@ -45,13 +45,13 @@ def classify(file):
     return utils.classify(face_recognition, file)
 
 
-def add(file, personName, rotate):
+def add(file, personName, rotate=None):
     print("Method", "add")
-    file.save(os.path.join(VIDEO_DIR, file.filename))
-    pool = multiprocessing.pool.ThreadPool(processes=processes)
-    pool.apply_async(utils.split_video, args=[file, personName, rotate])
-    pool.close()
-    return json.dumps({'result': 'success', 'message': 'Video uploaded!'})
+    #file.save(os.path.join(VIDEO_DIR, file.filename))
+    #pool = multiprocessing.pool.ThreadPool(processes=processes)
+    #pool.apply_async(utils.split_video, args=[file, personName, rotate])
+    #pool.close()
+    return utils.add(file, personName, rotate)
 
 
 face_recognition = face.Recognition()
