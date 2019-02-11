@@ -23,3 +23,8 @@ If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html)
 2) /face/classify: Execute the face recognition
 3) /face/restart: Reload the model
 4) /face/train: Train the model with new faces
+
+
+### Inspiration
+
+I use the ![Facenet](https://github.com/davidsandberg/facenet) implementation in this code.
