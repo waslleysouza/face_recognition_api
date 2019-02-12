@@ -1,11 +1,11 @@
-# Face Recognition
+# Face Recognition API
 
 ![Architecture](architecture.png)
 
 
-### FACE RECOGNITION SERVER
+### Usage
 
-If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev
+If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev ffmpeg
 
 If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html) and add the bin folder to your system path.
 
@@ -17,7 +17,7 @@ If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html)
 6) Open your browser and access: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
-### OPERATIONS
+### Operations
 
 1) /face/add: Add new faces to the model
 2) /face/classify: Execute the face recognition
@@ -28,3 +28,8 @@ If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html)
 ### Inspiration
 
 I use the ![Facenet](https://github.com/davidsandberg/facenet) implementation in this code.
+
+
+### License
+
+This project is ![MIT License](LICENSE.md)
