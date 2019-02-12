@@ -1,4 +1,3 @@
-upload
 _facenet
 __pycache__
 images/original/waslley souza
@@ -8,4 +7,4 @@ images/prepared/waslley souza
 images/prepared/ana rita
 images/prepared/ilan
 images/prepared/*.txt
-images/uploaded/*.txt
+images/uploaded
