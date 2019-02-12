@@ -8,3 +8,4 @@ scikit-learn
 opencv-contrib-python
 h5py
 matplotlib
+ffmpeg-python

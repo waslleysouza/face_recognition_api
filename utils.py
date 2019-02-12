@@ -54,9 +54,9 @@ def classify(face_recognition, file):
     if faces is not None:
         if faces[0]:
             print(faces[0].name)
-            return json.dumps({'name': faces[0].name})
+            return json.dumps({'result': 'success', 'name': faces[0].name})
 			
-    return json.dumps({'name': 'null'})
+    return json.dumps({'result': 'success', 'message': 'error'})
 
 
 def train():

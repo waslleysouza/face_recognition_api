@@ -52,18 +52,18 @@ paths:
           type: file
           x-mimetype: video/mp4
         - name: personName
-          in: query
+          in: formData
           description: Person name.
           required: true
           type: string
         - name: rotate
-          in: query
+          in: formData
           description: Rotate degree.
           required: false
           type: string
 
   /face/train:
-    get:
+    post:
       summary: Train Model
       description: Generates a greeting message from a get, such as curl -F file=@sample.png http://localhost:5000/face/train
       operationId: face_rec.train
@@ -78,7 +78,7 @@ paths:
             "text/json": "{result: 'Success', message: 'Model will be trained!'}"
 
   /face/restart:
-    get:
+    post:
       summary: Restart Model
       description: Generates a greeting message from a get, such as curl -F file=@sample.png http://localhost:5000/face/restart
       operationId: face_rec.restart

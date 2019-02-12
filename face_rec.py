@@ -30,7 +30,7 @@ def train():
 	
 
 def train_callback(result):
-    requests.get('http://localhost:5000/face/restart')
+    requests.post('http://localhost:5000/face/restart')
 
 
 def restart():
