@@ -16,6 +16,8 @@ If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html)
 5) Start the application: python server.py
 6) Open your browser and access: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
+Use ![Face Recognition Mobile App](https://github.com/waslleysouza/face_recognition_mobile_app) as the frontend app.
+
 
 ### Operations
 
