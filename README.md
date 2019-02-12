@@ -28,20 +28,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>facenet/LICENSE.md at master · davidsandberg/facenet</title>
-    <meta name="description" content="Face recognition using Tensorflow. Contribute to davidsandberg/facenet development by creating an account on GitHub.">
+  <title>face_recognition_api/README.md at efff5965ac128d2ea91f683a4bb47b74f3b72fd9 · waslleysouza/face_recognition_api</title>
+    <meta name="description" content="Contribute to waslleysouza/face_recognition_api development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/15169058?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="davidsandberg/facenet" /><meta property="og:url" content="https://github.com/davidsandberg/facenet" /><meta property="og:description" content="Face recognition using Tensorflow. Contribute to davidsandberg/facenet development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/7833378?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="waslleysouza/face_recognition_api" /><meta property="og:url" content="https://github.com/waslleysouza/face_recognition_api" /><meta property="og:description" content="Contribute to waslleysouza/face_recognition_api development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzYwMjU3MDUxOmE1YzgzM2JlYzFlZWQyZDhjOWY3YTJiMWFkZGI4ZmE1MjM0MTIyMzg3NzFjYWM5ODdiY2VjNGFkNWI5YTVlZDk=--7e28535ddf1e7f2cb41857ac212501e78bdd1b40">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzYwMjU3MDUxOmFjYWQ0OWJlOTZlNjc5YjNiNzM3MzYyZGRjZGVjNjNhNmVlZTQ2Y2ZjY2RmNGU4OTYwM2NiYzU2ZDkyNjE1OTE=--1fe76d21e54df0763b6da8eec2a91262cc4925af">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="E83A:49A0:15DB491:27F9356:5C61D3B2" data-pjax-transient>
+  <meta name="request-id" content="EA5F:07B1:E6668:192FE4:5C633F3E" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E83A:49A0:15DB491:27F9356:5C61D3B2" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="7833378" /><meta name="octolytics-actor-login" content="waslleysouza" /><meta name="octolytics-actor-hash" content="fcdb8889334ade6adf6ad910e79c9fdcc1eba9a2acfb1f7a794ae4d6858297e2" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EA5F:07B1:E6668:192FE4:5C633F3E" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="7833378" /><meta name="octolytics-actor-login" content="waslleysouza" /><meta name="octolytics-actor-hash" content="fcdb8889334ade6adf6ad910e79c9fdcc1eba9a2acfb1f7a794ae4d6858297e2" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,23 +71,23 @@
     <meta name="user-login" content="waslleysouza">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MzdkYjJhMmY5Y2MzN2QxNjc5MjdmYjZiNWM1NjAyZWVlYjM1MzIxZDk5NDU1MTQzN2I0ZDE1MDg3MTQxOGMyZHx7InJlbW90ZV9hZGRyZXNzIjoiMTk4LjQ5LjE2NC4xNjgiLCJyZXF1ZXN0X2lkIjoiRTgzQTo0OUEwOjE1REI0OTE6MjdGOTM1Njo1QzYxRDNCMiIsInRpbWVzdGFtcCI6MTU0OTkxNTA2MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZjQ3MDY2ZjBiNDQ2YmQyMzExMmIyMzRmYjdiZDIwNmVhNDIyMzhmMmI4YTZmMzk2MDY4YzhiYmVlNGRiODU3OXx7InJlbW90ZV9hZGRyZXNzIjoiMTkxLjE4My4xODMuNTAiLCJyZXF1ZXN0X2lkIjoiRUE1RjowN0IxOkU2NjY4OjE5MkZFNDo1QzYzM0YzRSIsInRpbWVzdGFtcCI6MTU1MDAwODEzMywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_BROWSING_V2,MARKETPLACE_INSIGHTS_V2">
 
   <meta name="html-safe-nonce" content="19e32cd5a1d778e92d675de677a00957a9ad00df">
 
-  <meta http-equiv="x-pjax-version" content="628dbff5d1e67ddb1d3e5927720df543">
+  <meta http-equiv="x-pjax-version" content="d26684ee82aa591753760c5fe4147ef3">
   
 
-      <link href="https://github.com/davidsandberg/facenet/commits/master.atom" rel="alternate" title="Recent Commits to facenet:master" type="application/atom+xml">
+      <link href="https://github.com/waslleysouza/face_recognition_api/commits/efff5965ac128d2ea91f683a4bb47b74f3b72fd9.atom" rel="alternate" title="Recent Commits to face_recognition_api:efff5965ac128d2ea91f683a4bb47b74f3b72fd9" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/davidsandberg/facenet git https://github.com/davidsandberg/facenet.git">
+  <meta name="go-import" content="github.com/waslleysouza/face_recognition_api git https://github.com/waslleysouza/face_recognition_api.git">
 
-  <meta name="octolytics-dimension-user_id" content="15169058" /><meta name="octolytics-dimension-user_login" content="davidsandberg" /><meta name="octolytics-dimension-repository_id" content="51620087" /><meta name="octolytics-dimension-repository_nwo" content="davidsandberg/facenet" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="51620087" /><meta name="octolytics-dimension-repository_network_root_nwo" content="davidsandberg/facenet" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="7833378" /><meta name="octolytics-dimension-user_login" content="waslleysouza" /><meta name="octolytics-dimension-repository_id" content="169762009" /><meta name="octolytics-dimension-repository_nwo" content="waslleysouza/face_recognition_api" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="169762009" /><meta name="octolytics-dimension-repository_network_root_nwo" content="waslleysouza/face_recognition_api" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/davidsandberg/facenet/blob/master/LICENSE.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/waslleysouza/face_recognition_api/blob/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -141,7 +141,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="51620087" data-scoped-search-url="/davidsandberg/facenet/search" data-unscoped-search-url="/search" action="/davidsandberg/facenet/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="169762009" data-scoped-search-url="/waslleysouza/face_recognition_api/search" data-unscoped-search-url="/search" action="/waslleysouza/face_recognition_api/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -155,7 +155,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=hZcD+MJL6wclEtDoSEAPTAISLUSD123DkquTIpTBCFZKSkZ3mKc/nyZALWpVsx03ZcRntip/kWyVw2gYVL4ZyQ=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=tJcL5An44//6h3aoDHExfFBj0XnskRGMCX182wtQDY97Sk5rUxQ3Z/nViyoRgiMHN7Wbi0U57SMOFYfhyy8cEA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -346,9 +346,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="davidsandberg/facenet">This repository</span>
+    <span title="waslleysouza/face_recognition_api">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/davidsandberg/facenet/issues/new" data-ga-click="Header, create new issue">
+    <a role="menuitem" class="dropdown-item" href="/waslleysouza/face_recognition_api/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -374,7 +374,7 @@
           
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:15169058,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:7833378,&quot;client_id&quot;:&quot;2042765264.1540908547&quot;,&quot;originating_request_id&quot;:&quot;E83A:49A0:15DB491:27F9356:5C61D3B2&quot;,&quot;originating_url&quot;:&quot;https://github.com/davidsandberg/facenet/blob/master/LICENSE.md&quot;}}" data-hydro-click-hmac="5479e0b068806630fe61e8ab04af39a8dd0ab57de741c5c644bc0ad9280ced6f">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
@@ -383,8 +383,9 @@
       <div class="d-inline-block v-align-middle user-status-message-wrapper f6 lh-condensed ws-normal pt-1">
           <span class="link-gray">Set your status</span>
       </div>
-</summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="JxiULBuF84jN976Ygnv20x+rOvdR8sHsZqu0lBpoieMz9qQQx6WlqlP4c1nurgwaEwKnwyomF9tQRem4BeQwwQ==" />
+    </summary>
+    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="9ZP3OWMxSqf9kZku3lmnPQkJZTH9uXxRP0WirrpHZyvhfccFvxEchWOeVO+yjF30BaD4BYZtqmYJq/+CpcveCQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -500,7 +501,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MJ/KEFiEtak8a0PzbRR85XeU5H1NDzpVFnJ7PQyZFer/PCFnHM2eXXjrlAJXGGCZj5CX9XrCEhpPiCLWIk5BMw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UE+TWVs3bh6f3t5WMolH74TfN1ivkj4Z2lRoznktMmaf7HguH35F6tteCacIhVuTfNtE0JhfFlaDrjElV/pmvw==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -512,7 +513,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pTaDolqlyX+Uqms00UWLnCGc0lQdHxci+FpsWX9fd21qlWjVHuzii9AqvMXrSZfg2Zih3CrSP22hoDWyUYgjtA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ASUK1efTJeulZif4Cv4DzG6Bn/GGOiaK9sVrHOZaSEnOhuGio5oOH+Hm8Akw8h+wloXsebH3DsWvPzL3yI0ckA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -551,13 +552,13 @@
       <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Gdcp0AxyPwibo5fXeXCMJprOYypZtEuH5CVIU2+cU4gIhDneDDJqNDKyE2Vuxum+HG0VkEV+ojYuvoPJ8AV26Q==" />      <input type="hidden" name="repository_id" id="repository_id" value="51620087" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XFv3cbBAykaX5bpO3rD1CuwLXo0TkpxR22FxQXBSmYFNCOd/sACfej70PvzJBpCSaqgoNw9YdeAR+rrb78u84A==" />      <input type="hidden" name="repository_id" id="repository_id" value="169762009" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
           <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-              Watch
+              Unwatch
           </span>
         </summary>
         <details-menu class="select-menu-modal position-absolute mt-5" style="z-index: 99;">
@@ -565,7 +566,7 @@
             <span class="select-menu-title">Notifications</span>
           </div>
           <div class="select-menu-list">
-            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
+            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
               <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
               <div class="select-menu-item-text">
                 <span class="select-menu-item-heading">Not watching</span>
@@ -589,7 +590,7 @@
               </div>
             </button>
 
-            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
               <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
               <div class="select-menu-item-text">
                 <span class="select-menu-item-heading">Watching</span>
@@ -616,72 +617,65 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/davidsandberg/facenet/watchers"
-        aria-label="507 users are watching this repository">
-        507
+        href="/waslleysouza/face_recognition_api/watchers"
+        aria-label="1 user is watching this repository">
+        1
       </a>
 </form>
   </li>
 
   <li>
-      <div class="js-toggler-container js-social-container starring-container on">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/davidsandberg/facenet/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wqjfoCLyRn9BmeNc0L1h2OG3PLCbrzWs0+QsYoXZ4UFmXPr3x/2b03hTaDXWH/zB67WEdWb28N55vyVRPhInZg==" />
+      <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/waslleysouza/face_recognition_api/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6FCyjgoIedINnkChPvkytHN/ct6OFMPOl3waEjrU60n+uhhOkDFTmTSeuIkw43TKLOdRdcqZWMJmu9Qk9vJPnA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar davidsandberg/facenet"
+        aria-label="Unstar this repository" title="Unstar waslleysouza/face_recognition_api"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/davidsandberg/facenet/stargazers"
-           aria-label="7107 users starred this repository">
-          7,107
+        <a class="social-count js-social-count" href="/waslleysouza/face_recognition_api/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/davidsandberg/facenet/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NZ6D/ve+vGTvkDxOqxq6gZufZ6H8J+pBhOFFXX9OO4ts7W9MTJT7F4i/G1IEdBouRaCQ57KyhZ805vdSurPrQA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/waslleysouza/face_recognition_api/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DsWl2id4vlcpnNkTs4O5URqW6b2RmOXvQ4BjB080oH2KXc8u7oS9x4Cz80Qx2w+8K7HGbWuCLQMOWiU4T3dDtg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star davidsandberg/facenet"
+        aria-label="Star this repository" title="Star waslleysouza/face_recognition_api"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/davidsandberg/facenet/stargazers"
-           aria-label="7107 users starred this repository">
-          7,107
+        <a class="social-count js-social-count" href="/waslleysouza/face_recognition_api/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/davidsandberg/facenet/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aJLIpdBmi4LRvw53yFH5Vnw6rWRFHFoZNIrSTD2r4w74xjuHTddyLk3KavaFEku1DhLR70RCagtsHNzKz9EZbw==" />
-            <button
-                type="submit"
-                class="btn btn-sm btn-with-count"
-                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of davidsandberg/facenet to your account"
-                aria-label="Fork your own copy of davidsandberg/facenet to your account">
-              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-              Fork
-            </button>
-</form>
-    <a href="/davidsandberg/facenet/network/members" class="social-count"
-       aria-label="2971 users forked this repository">
-      2,971
+        <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
+          <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          Fork
+</span>
+    <a href="/waslleysouza/face_recognition_api/network/members" class="social-count"
+       aria-label="1 user forked this repository">
+      1
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
   <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=15169058" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/davidsandberg">davidsandberg</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7833378" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/waslleysouza">waslleysouza</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/davidsandberg/facenet">facenet</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/waslleysouza/face_recognition_api">face_recognition_api</a></strong>
 
 </h1>
 
@@ -694,40 +688,47 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /davidsandberg/facenet" href="/davidsandberg/facenet">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /waslleysouza/face_recognition_api" href="/waslleysouza/face_recognition_api">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /davidsandberg/facenet/issues" href="/davidsandberg/facenet/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /waslleysouza/face_recognition_api/issues" href="/waslleysouza/face_recognition_api/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">315</span>
+        <span class="Counter">0</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /davidsandberg/facenet/pulls" href="/davidsandberg/facenet/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /waslleysouza/face_recognition_api/pulls" href="/waslleysouza/face_recognition_api/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">28</span>
+      <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
 
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /waslleysouza/face_recognition_api/projects" href="/waslleysouza/face_recognition_api/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
 
-
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /davidsandberg/facenet/wiki" href="/davidsandberg/facenet/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /waslleysouza/face_recognition_api/wiki" href="/waslleysouza/face_recognition_api/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security people /davidsandberg/facenet/pulse" href="/davidsandberg/facenet/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security people /waslleysouza/face_recognition_api/pulse" href="/waslleysouza/face_recognition_api/pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
-
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /waslleysouza/face_recognition_api/settings" href="/waslleysouza/face_recognition_api/settings">
+      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
+      Settings
+</a>
 </nav>
 
 
@@ -741,9 +742,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/davidsandberg/facenet/blob/096ed770f163957c1e56efa7feeb194773920f6e/LICENSE.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/waslleysouza/face_recognition_api/blob/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:9ac800b455d3aa871a5d74736d46377c -->
+    <!-- blob contrib key: blob_contributors:v21:84f4826ba45ab51da584557ba4ce52ce -->
 
     
 
@@ -754,11 +755,11 @@
            data-hotkey="w"
            
            title="Switch branches or tags">
-    <i>Branch:</i>
-    <span class="css-truncate-target">master</span>
+    <i>Tree:</i>
+    <span class="css-truncate-target">efff5965ac</span>
   </summary>
 
-  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/davidsandberg/facenet/ref-list/master/LICENSE.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/waslleysouza/face_recognition_api/ref-list/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -766,7 +767,7 @@
 </details>
 
       <div class="BtnGroup float-right">
-        <a href="/davidsandberg/facenet/find/master"
+        <a href="/waslleysouza/face_recognition_api/find/efff5965ac128d2ea91f683a4bb47b74f3b72fd9"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -777,108 +778,23 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/davidsandberg/facenet"><span>facenet</span></a></span></span><span class="separator">/</span><strong class="final-path">LICENSE.md</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/waslleysouza/face_recognition_api/tree/efff5965ac128d2ea91f683a4bb47b74f3b72fd9"><span>face_recognition_api</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </div>
     </div>
-
-      <div class="Box mb-3 clearfix">
-  <div class="col-6 float-left p-2 pt-3">
-    <svg height="32" class="octicon octicon-law license-summary-octicon float-left mr-2" viewBox="0 0 14 16" version="1.1" width="28" aria-hidden="true"><path fill-rule="evenodd" d="M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z"/></svg>
-    <p class="text-small text-gray mb-0 lh-condensed-ultra">
-      davidsandberg/facenet is licensed under the
-    </p>
-    <h4 class="mt-0 mb-2">MIT License</h4>
-    <p class="mb-0 text-gray text-small pr-2">A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
-  </div>
-
-  <div class="col-6 float-left p-2">
-      <div class="one-third column">
-        <h5 class="mt-1 mb-2">Permissions</h5>
-        <ul class="list-style-none">
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
-                aria-label="This software and derivatives may be used for commercial purposes.">
-                Commercial use
-              </span>
-            </li>
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
-                aria-label="This software may be modified.">
-                Modification
-              </span>
-            </li>
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
-                aria-label="This software may be distributed.">
-                Distribution
-              </span>
-            </li>
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-check rule-type-permissions ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-              <span class="tooltipped tooltipped-se tooltipped-multiline v-align-middle"
-                aria-label="This software may be used and modified in private.">
-                Private use
-              </span>
-            </li>
-        </ul>
-      </div>
-      <div class="one-third column">
-        <h5 class="mt-1 mb-2">Limitations</h5>
-        <ul class="list-style-none">
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-x rule-type-limitations ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-              <span class="tooltipped tooltipped-s tooltipped-multiline v-align-middle"
-                aria-label="This license includes a limitation of liability.">
-                Liability
-              </span>
-            </li>
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-x rule-type-limitations ml-n3 v-align-middle" viewBox="0 0 12 16" version="1.1" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-              <span class="tooltipped tooltipped-s tooltipped-multiline v-align-middle"
-                aria-label="The license explicitly states that it does NOT provide any warranty.">
-                Warranty
-              </span>
-            </li>
-        </ul>
-      </div>
-      <div class="one-third column">
-        <h5 class="mt-1 mb-2">Conditions</h5>
-        <ul class="list-style-none">
-            <li class="text-small pl-3">
-              <svg width="13" class="octicon octicon-info rule-type-conditions ml-n3 v-align-middle" viewBox="0 0 14 16" version="1.1" height="14" aria-hidden="true"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"/></svg>
-              <span class="tooltipped tooltipped-sw tooltipped-multiline v-align-middle"
-                aria-label="A copy of the license and copyright notice must be included with the software.">
-                License and copyright notice
-              </span>
-            </li>
-        </ul>
-      </div>
-  </div>
-
-  <p class="text-gray text-small mb-0 border-top col-12 float-left p-2">
-    This is not legal advice.
-    <a href="https://help.github.com/articles/licensing-a-repository/#disclaimer">Learn more about repository licenses</a>.
-  </p>
-</div>
 
 
     
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/davidsandberg/facenet/commit/49fc4ac487fb7cc5bd47a54f846c55a2e543febf" data-pjax>
-          49fc4ac
+        <a class="commit-tease-sha" href="/waslleysouza/face_recognition_api/commit/efff5965ac128d2ea91f683a4bb47b74f3b72fd9" data-pjax>
+          efff596
         </a>
-        <relative-time datetime="2016-10-22T15:33:10Z">Oct 22, 2016</relative-time>
+        <relative-time datetime="2019-02-11T19:55:47Z">Feb 11, 2019</relative-time>
       </span>
       <div>
-        <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=15169058" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/davidsandberg"><img class="avatar" src="https://avatars0.githubusercontent.com/u/15169058?s=40&amp;v=4" width="20" height="20" alt="@davidsandberg" /></a>
-        <a class="user-mention" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=15169058" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/davidsandberg">davidsandberg</a>
-          <a data-pjax="true" title="Create LICENSE.md
-
-Added a license" class="message" href="/davidsandberg/facenet/commit/49fc4ac487fb7cc5bd47a54f846c55a2e543febf">Create LICENSE.md</a>
+        <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7833378" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/waslleysouza"><img class="avatar" src="https://avatars0.githubusercontent.com/u/7833378?s=40&amp;v=4" width="20" height="20" alt="@waslleysouza" /></a>
+        <a class="user-mention" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7833378" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/waslleysouza">waslleysouza</a>
+          <a data-pjax="true" title="README updated" class="message" href="/waslleysouza/face_recognition_api/commit/efff5965ac128d2ea91f683a4bb47b74f3b72fd9">README updated</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -903,9 +819,9 @@ Added a license" class="message" href="/davidsandberg/facenet/commit/49fc4ac487f
     
         <ul class="list-style-none overflow-auto">
             <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/davidsandberg">
-                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/15169058?s=40&amp;v=4" width="20" height="20" />
-                davidsandberg
+              <a class="link-gray-dark no-underline" href="/waslleysouza">
+                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/7833378?s=40&amp;v=4" width="20" height="20" />
+                waslleysouza
 </a>            </li>
         </ul>
 
@@ -926,58 +842,60 @@ Added a license" class="message" href="/davidsandberg/facenet/commit/49fc4ac487f
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/davidsandberg/facenet/raw/master/LICENSE.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/davidsandberg/facenet/blame/master/LICENSE.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/davidsandberg/facenet/commits/master/LICENSE.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/waslleysouza/face_recognition_api/raw/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/waslleysouza/face_recognition_api/blame/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/waslleysouza/face_recognition_api/commits/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/README.md">History</a>
     </div>
 
 
-        <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/davidsandberg/facenet?branch=master&amp;filepath=LICENSE.md"
-           aria-label="Open this file in GitHub Desktop"
-           data-ga-click="Repository, open with desktop, type:windows">
+        <button class="btn-octicon disabled tooltipped tooltipped-nw"
+           type="button"
+           disabled
+           aria-label="You must be on a branch to open this file in GitHub Desktop">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-        </a>
+        </button>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/davidsandberg/facenet/edit/master/LICENSE.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dIpJG2SgbpA2VxPUiBfEIh+dMG9Pmvgp+sElzogPvL9OyMXlY3QfPt9b4u6szz8bFq/wlx0sONGDqk80pnmFbg==" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-            </button>
-</form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/davidsandberg/facenet/delete/master/LICENSE.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="plrHYvgls6zhvz5Ul4B59RkopJh0Vzdj/1G6/wtV5xxucmj+AKZBamfrGZoKZJw7stApqUb3CpZbzE3TBOEJPw==" />
-          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Fork this project and delete the file" data-disable-with>
-            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-          </button>
-</form>  </div>
+        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+          aria-label="You must be on a branch to make or propose changes to this file">
+          <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+        </button>
+        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          aria-label="You must be on a branch to make or propose changes to this file">
+          <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+        </button>
+  </div>
 
   <div class="file-info">
-      22 lines (17 sloc)
+      30 lines (18 sloc)
       <span class="file-info-divider"></span>
-    1.05 KB
+    1019 Bytes
   </div>
 </div>
 
       
-  <div id=readme class="readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content" itemprop="text"><p>MIT License</p>
-<p>Copyright (c) 2016 David Sandberg</p>
-<p>Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:</p>
-<p>The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.</p>
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</p>
+  <div id="readme" class="readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-face-recognition" class="anchor" aria-hidden="true" href="#face-recognition"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Face Recognition</h1>
+<p><a target="_blank" rel="noopener noreferrer" href="/waslleysouza/face_recognition_api/blob/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/architecture.png"><img src="/waslleysouza/face_recognition_api/raw/efff5965ac128d2ea91f683a4bb47b74f3b72fd9/architecture.png" alt="Architecture" style="max-width:100%;"></a></p>
+<h3><a id="user-content-face-recognition-server" class="anchor" aria-hidden="true" href="#face-recognition-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>FACE RECOGNITION SERVER</h3>
+<p>If you are using Ubuntu, run: sudo apt-get install -y libsm6 libxext6 libxrender-dev</p>
+<p>If you are using Windows, download FFmpeg (<a href="https://www.ffmpeg.org/download.html" rel="nofollow">https://www.ffmpeg.org/download.html</a>) and add the bin folder to your system path.</p>
+<ol>
+<li>Update the deployment.json file with your credentials and folders information.</li>
+<li>Create a new Python or Anaconda environment: conda create -n facerec python=3.6 -y</li>
+<li>Activate your environment: activate facerec</li>
+<li>Install the packages of the requirement.txt file using PIP: pip install -r requirement.txt</li>
+<li>Start the application: python server.py</li>
+<li>Open your browser and access: http://&lt;HOST_IP_OR_LOCALHOST&gt;:5000/ui</li>
+</ol>
+<h3><a id="user-content-operations" class="anchor" aria-hidden="true" href="#operations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>OPERATIONS</h3>
+<ol>
+<li>/face/add: Add new faces to the model</li>
+<li>/face/classify: Execute the face recognition</li>
+<li>/face/restart: Reload the model</li>
+<li>/face/train: Train the model with new faces</li>
+</ol>
+<h3><a id="user-content-inspiration" class="anchor" aria-hidden="true" href="#inspiration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Inspiration</h3>
+<p>I use the <a target="_blank" rel="noopener noreferrer" href="https://github.com/davidsandberg/facenet"><img src="https://github.com/davidsandberg/facenet" alt="Facenet" style="max-width:100%;"></a> implementation in this code.</p>
 </article>
   </div>
 
@@ -1010,7 +928,7 @@ SOFTWARE.</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.40370s from unicorn-5d999696c5-9wr5b">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.41362s from unicorn-6ffdb95c5b-xqnj2">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
@@ -1050,7 +968,7 @@ SOFTWARE.</p>
     
     <script crossorigin="anonymous" integrity="sha512-wGR6eNtxDxWfqfl2Qkc6PJi53UcuimD2jIlCQ9JVbhdV7fXMj7VlfzHSjjsBpFWnM5YNKz2LY2SSNvKgStXdow==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-60e34f08371384b8f7942cee70fec187.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-n64WRGgMGbhSA6jDawWo/zYeN7OKj91fLPYDIkXABKJVYFZPoy0GE6gRH/Rx9MMN1+1Ye2sSWeXugFJgWeAFyg==" type="application/javascript" src="https://github.githubassets.com/assets/github-af60d4020201a149bf8daba312a12266.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-ex0t94w7TyIKs3Cgt9fBmSHyYJm7Cx15HI9mfGWI1AOCeYFnteE+FEApjprf7cS8MJ5/3o9S1fB06UUdrqLNJw==" type="application/javascript" src="https://github.githubassets.com/assets/github-c2510b854234f5a8e630e35b96dca09d.js"></script>
     
     
     
