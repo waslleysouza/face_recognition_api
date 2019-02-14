@@ -14,8 +14,8 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 2) Activate your environment: $ activate facerec
 
 3) Install the packages of the requirement.txt file: 
-   - If you have CPU: $ pip install -r requirement-cpu.txt
-   - If you have GPU: $ pip install -r requirement-gpu.txt
+    - If you have CPU: $ pip install -r requirement-cpu.txt
+    - If you have GPU: $ pip install -r requirement-gpu.txt
 
 4) Start the application: $ python server.py
 
@@ -27,7 +27,7 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 It is possible to download or upload all your images to Oracle Cloud Infrastructure Object Storage.
 
 1) Open the deployment.json file and change the following parameter:
-- "OCI_STORAGE_SYNC": true
+    - "OCI_STORAGE_SYNC": true
 
 2) Update the config/config.prod file with your Oracle Cloud Account information.
 
@@ -40,8 +40,11 @@ Use ![Face Recognition Mobile App](https://github.com/waslleysouza/face_recognit
 ## Usage
 
 1) /face/add: This operation adds a new human face to the Face Recognition API database. You can upload videos or images that contain only one person.
+
 2) /face/classify: This opertaion to execute a face recognition. You can upload images that contains only one person.
+
 3) /face/train: This operation trains the model to recognize the new faces added by the "/face/add" operation.
+
 4) /face/restart: This operation reloads the Face Recognition API model if you experience any problems.
 
 
