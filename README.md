@@ -50,7 +50,7 @@ M/zUpgSZNNiI9lwnJB679pAOHBGdK0JfXEDS6VUAITgzHbNQcFcl6567LCd4U15j
 -----END PUBLIC KEY-----
 ```
 
-4) Copy the Public Key output and upload it by Signing in to the Console and pasting it under Identity > Users > User Details > API Keys.
+4) Copy the Public Key output and paste it under Identity > Users > User Details > API Keys.
 
 ![API-Keys](api-keys.png)
 
