@@ -1,6 +1,6 @@
 # Face Recognition API
 
-![Architecture](architecture.png)
+![Architecture](docs/architecture.png)
 
 
 ## Basic Instalation
@@ -55,7 +55,7 @@ M/zUpgSZNNiI9lwnJB679pAOHBGdK0JfXEDS6VUAITgzHbNQcFcl6567LCd4U15j
 
 4) Copy the Public Key output and paste it under Identity > Users > User Details > API Keys.
 
-![API-Keys](api-keys1.png)
+![API-Keys](docs/api-keys.png)
 
 
 ## Mobile Application
