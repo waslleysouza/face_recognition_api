@@ -8,5 +8,4 @@ images/prepared/ana rita
 images/prepared/ilan
 images/prepared/*.txt
 images/uploaded
-conf/config.prod
 realtime_facerec.py
