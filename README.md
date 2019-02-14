@@ -10,11 +10,15 @@ UBUNTU: If you are using Ubuntu, run: $ sudo apt-get install -y libsm6 libxext6 
 WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html) and add the bin folder to your system path.
 
 1) Create a new Python or Anaconda environment: $ conda create -n facerec python=3.6 -y
+
 2) Activate your environment: $ activate facerec
+
 3) Install the packages of the requirement.txt file: 
-    - If you have CPU: $ pip install -r requirement-cpu.txt
-    - If you have GPU: $ pip install -r requirement-gpu.txt
+- If you have CPU: $ pip install -r requirement-cpu.txt
+- If you have GPU: $ pip install -r requirement-gpu.txt
+
 4) Start the application: $ python server.py
+
 5) Open your browser and access the Console: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
@@ -23,7 +27,7 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 It is possible to download or upload all your images to Oracle Cloud Infrastructure Object Storage.
 
 1) Open the deployment.json file and change the following parameter:
-    - "OCI_STORAGE_SYNC": true
+- "OCI_STORAGE_SYNC": true
 
 2) Update the config/config.prod file with your Oracle Cloud Account information.
 
