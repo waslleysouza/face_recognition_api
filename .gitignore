@@ -1,11 +1,10 @@
 _facenet
 __pycache__
-images/original/waslley souza
 images/original/ana rita
 images/original/ilan
-images/prepared/waslley souza
 images/prepared/ana rita
 images/prepared/ilan
 images/prepared/*.txt
 images/uploaded
-config/config.waslley
+config/config.prod
+realtime_facerec.py
