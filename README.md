@@ -14,8 +14,8 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 2) Activate your environment: $ activate facerec
 
 3) Install the packages of the requirement.txt file: 
-- If you have CPU: $ pip install -r requirement-cpu.txt
-- If you have GPU: $ pip install -r requirement-gpu.txt
+   - If you have CPU: $ pip install -r requirement-cpu.txt
+   - If you have GPU: $ pip install -r requirement-gpu.txt
 
 4) Start the application: $ python server.py
 
