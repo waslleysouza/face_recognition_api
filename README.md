@@ -31,6 +31,29 @@ It is possible to download or upload all your images to Oracle Cloud Infrastruct
 
 2) Update the config/config.prod file with your Oracle Cloud Account information.
 
+3) Generate public and private API keys.
+```shell
+cd  ~/face_recognition_api/config
+openssl genrsa -out ~/face_recognition_api/config/oci_api_key_private.pem 2048
+chmod go-rwx ~/face_recognition_api/config/oci_api_key_private.pem
+openssl rsa -pubout -in ~/face_recognition_api/config/oci_api_key_private.pem -out ~/face_recognition_api/config/oci_api_key_public.pem
+# add this public key to your profile under Identity > Users > User Details > API Keys
+cat ~/face_recognition_api/config/oci_api_key_public.pem
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo/7hKYCiExQJjo3C4M+V
+QVgBowAUYRRRCEIkkfolpYSlHuyfl0Y34OuYlat6mqnZReuSl6MKa2e8PKIHfa4T
+0s/01cWvgETYnFty6lskNQO3eGO1KIQ5rZCSuCgcrnWNUzYKQ+0FopSDHj1BPzbv
+9Kr13cE9BRU7nBYyG4hGbjUmY9qt6LUKR/MzZZjI5+IAlwpywlYN7X2uwUf30K/c
+M/zUpgSZNNiI9lwnJB679pAOHBGdK0JfXEDS6VUAITgzHbNQcFcl6567LCd4U15j
+1DjWAEWIObtYvzpX0nqUsn8Is8GoS6eTQBes8Nhf+rUgLSodsP8rGBboWtkDfRBk
+9wIDAQAB
+-----END PUBLIC KEY-----
+```
+
+4) Copy the Public Key output and upload it by Signing in to the Console and pasting it under Identity > Users > User Details > API Keys.
+
+![API-Keys](api-keys.png)
+
 
 ## Mobile Application
 
