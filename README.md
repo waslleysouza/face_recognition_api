@@ -3,7 +3,7 @@
 ![Architecture](architecture.png)
 
 
-### Basic Instalation - Steps
+## Basic Instalation - Steps
 
 UBUNTU: If you are using Ubuntu, run: $ sudo apt-get install -y libsm6 libxext6 libxrender-dev ffmpeg
 
@@ -18,7 +18,7 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 5) Open your browser and access the Console: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
-### Oracle Cloud Infrastructure Object Storage - Steps
+## Oracle Cloud Infrastructure Object Storage - Steps
 
 It is possible to download or upload all your images to Oracle Cloud Infrastructure Object Storage.
 
@@ -28,12 +28,12 @@ It is possible to download or upload all your images to Oracle Cloud Infrastruct
 2) Update the config/config.prod file with your Oracle Cloud Account information.
 
 
-### Mobile Application
+## Mobile Application
 
 Use ![Face Recognition Mobile App](https://github.com/waslleysouza/face_recognition_mobile_app) as your mobile app.
 
 
-### Usage
+## Usage
 
 1) /face/add: This operation adds a new human face to the Face Recognition API database. You can upload videos or images that contain only one person.
 2) /face/classify: This opertaion to execute a face recognition. You can upload images that contains only one person.
@@ -41,11 +41,11 @@ Use ![Face Recognition Mobile App](https://github.com/waslleysouza/face_recognit
 4) /face/restart: This operation reloads the Face Recognition API model if you experience any problems.
 
 
-### Inspiration
+## Inspiration
 
 I use the ![Facenet](https://github.com/davidsandberg/facenet) implementation in this code.
 
 
-### License
+## License
 
 This project is ![MIT License](LICENSE.md)
