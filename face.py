@@ -45,6 +45,7 @@ gpu_memory_fraction = 0.3
 facenet_model_checkpoint = "./model/20180402-114759.pb"
 classifier_model = "./classifier/classifier.pkl"
 debug = False
+unknown_prediction = 0.75
 
 
 class Face:
@@ -91,8 +92,12 @@ class Identifier:
     def identify(self, face):
         if face.embedding is not None:
             predictions = self.model.predict_proba([face.embedding])
+            print(predictions, self.class_names)
             best_class_indices = np.argmax(predictions, axis=1)
-            return self.class_names[best_class_indices[0]]
+            if predictions[0][best_class_indices] > unknown_prediction:
+                return self.class_names[best_class_indices[0]]
+            else:
+                return "Unknown"
 
 
 class Encoder:

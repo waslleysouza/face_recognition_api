@@ -2,10 +2,10 @@ Pillow
 requests
 connexion[swagger-ui]
 tornado
-tensorflow
+tensorflow-gpu
 scipy
 scikit-learn
 opencv-contrib-python
 h5py
-matplotlib
 ffmpeg-python
+oci

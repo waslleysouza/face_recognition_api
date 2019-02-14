@@ -1,16 +1,14 @@
 {
-    "SYNC_STORAGE_BUCKET": false,
-    "STORAGE_USER": "username",
-    "STORAGE_PASS": "password",
-    "STORAGE_IDENTITY": "identity_domain",
-    "STORAGE_BUCKET": "images",
-    
-    "UPLOAD_DIR": "./images/uploaded",
-    "INPUT_DIR": "./images/original/",
-    "OUTPUT_DIR": "./images/prepared/",
+    "IMAGE_UPLOAD_DIR": "./images/uploaded/",
+    "IMAGE_ORIGINAL_DIR": "./images/original/",
+    "IMAGE_PREPARED_DIR": "./images/prepared/",
     "MODEL_PATH": "./model/20180402-114759.pb",
     "CLASSIFIER_PATH": "./classifier/classifier.pkl",
     
-    "IMAGE_WIDTH": 150,
-    "FRAMES_PER_VIDEO": 25
+    "CLASSIFY_IMAGE_WIDTH": 150,
+    "ADD_FRAMES_PER_VIDEO": 25,
+
+    "OCI_STORAGE_SYNC": false,
+    "OCI_CONFIG_PATH": "./config/config.prod",
+    "OCI_STORAGE_BUCKET_NAME": "facerec-images"
 }

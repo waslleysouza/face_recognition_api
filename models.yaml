@@ -1,15 +1,15 @@
 swagger: "2.0"
 
 info:
-  title: Face Recognition Server
+  title: Face Recognition API
   version: "1.0"
 
 paths:
   /face/classify:
     post:
-      summary: Classify Face
-      description: Generates a greeting message from a post, such as curl -F file=@sample.png http://localhost:5000/face/classify
-      operationId: face_rec.classify
+      summary: Perform facial recognition.
+      description: This operation performs facial recognition. You can upload images that contain only one person.
+      operationId: facerec.classify
       consumes:
         - multipart/form-data
       produces:
@@ -20,7 +20,7 @@ paths:
           schema:
             type: string
           examples:
-            "text/json": "{name: 'John'}"
+            "text/json": "{result: 'success', name: 'John'}"
       parameters:
         - name: file
           in: formData
@@ -30,9 +30,9 @@ paths:
   
   /face/add:
     post:
-      summary: Add Face
-      description: Generates a greeting message from a post, such as curl -F file=@sample.png http://localhost:5000/face/add
-      operationId: face_rec.add
+      summary: Add a new faces to the Face Recognition API database.
+      description: This operation adds new faces to the Face Recognition API database. You can upload videos or images that contain only one person.
+      operationId: facerec.add
       consumes:
         - multipart/form-data
       produces:
@@ -43,7 +43,7 @@ paths:
           schema:
             type: string
           examples:
-            "text/json": "{result: 'Success', message: 'File uploaded!'}"
+            "text/json": "{result: 'success', message: 'File uploaded!'}"
       parameters:
         - name: file
           in: formData
@@ -64,9 +64,9 @@ paths:
 
   /face/train:
     post:
-      summary: Train Model
-      description: Generates a greeting message from a get, such as curl -F file=@sample.png http://localhost:5000/face/train
-      operationId: face_rec.train
+      summary: Train the model to recognize the new faces.
+      description: This operation trains the model to recognize the new faces added by the "/face/add" operation.
+      operationId: facerec.train
       produces:
         - text/json;
       responses:
@@ -75,13 +75,13 @@ paths:
           schema:
             type: string
           examples:
-            "text/json": "{result: 'Success', message: 'Model will be trained!'}"
+            "text/json": "{result: 'success', message: 'Model will be trained!'}"
 
   /face/restart:
     post:
-      summary: Restart Model
-      description: Generates a greeting message from a get, such as curl -F file=@sample.png http://localhost:5000/face/restart
-      operationId: face_rec.restart
+      summary: Reload the Face Recognition API model.
+      description: This operation reloads the Face Recognition API model if you experience any problems.
+      operationId: facerec.restart
       produces:
         - text/json;
       responses:
@@ -90,4 +90,4 @@ paths:
           schema:
             type: string
           examples:
-            "text/json": "{result: 'Success', message: 'Model restarted!'}"
+            "text/json": "{result: 'success', message: 'Model restarted!'}"
