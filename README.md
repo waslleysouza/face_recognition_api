@@ -34,10 +34,13 @@ It is possible to download or upload all your images to Oracle Cloud Infrastruct
 3) Generate public and private API keys.
 ```shell
 cd  ~/face_recognition_api/config
+
 openssl genrsa -out ~/face_recognition_api/config/oci_api_key_private.pem 2048
+
 chmod go-rwx ~/face_recognition_api/config/oci_api_key_private.pem
+
 openssl rsa -pubout -in ~/face_recognition_api/config/oci_api_key_private.pem -out ~/face_recognition_api/config/oci_api_key_public.pem
-# add this public key to your profile under Identity > Users > User Details > API Keys
+
 cat ~/face_recognition_api/config/oci_api_key_public.pem
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo/7hKYCiExQJjo3C4M+V
