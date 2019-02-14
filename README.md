@@ -29,19 +29,19 @@ It is possible to download or upload all your images to Oracle Cloud Infrastruct
 1) Open the deployment.json file and change the following parameter:
     - "OCI_STORAGE_SYNC": true
 
-2) Update the config/config.prod file with your Oracle Cloud Account information.
+2) Update the conf/config.prod file with your Oracle Cloud Account information.
 
 3) Generate public and private API keys.
 ```shell
-cd  ~/face_recognition_api/config
+cd  ~/face_recognition_api/conf
 
-openssl genrsa -out ~/face_recognition_api/config/oci_api_key_private.pem 2048
+openssl genrsa -out ~/face_recognition_api/conf/oci_api_key_private.pem 2048
 
-chmod go-rwx ~/face_recognition_api/config/oci_api_key_private.pem
+chmod go-rwx ~/face_recognition_api/conf/oci_api_key_private.pem
 
-openssl rsa -pubout -in ~/face_recognition_api/config/oci_api_key_private.pem -out ~/face_recognition_api/config/oci_api_key_public.pem
+openssl rsa -pubout -in ~/face_recognition_api/conf/oci_api_key_private.pem -out ~/face_recognition_api/conf/oci_api_key_public.pem
 
-cat ~/face_recognition_api/config/oci_api_key_public.pem
+cat ~/face_recognition_api/conf/oci_api_key_public.pem
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo/7hKYCiExQJjo3C4M+V
 QVgBowAUYRRRCEIkkfolpYSlHuyfl0Y34OuYlat6mqnZReuSl6MKa2e8PKIHfa4T
