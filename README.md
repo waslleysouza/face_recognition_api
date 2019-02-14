@@ -3,7 +3,7 @@
 ![Architecture](architecture.png)
 
 
-## Basic Instalation - Steps
+## Basic Instalation
 
 UBUNTU: If you are using Ubuntu, run: $ sudo apt-get install -y libsm6 libxext6 libxrender-dev ffmpeg
 
@@ -22,7 +22,7 @@ WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/downl
 5) Open your browser and access the Console: http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
-## Oracle Cloud Infrastructure Object Storage - Steps
+## Oracle Cloud Infrastructure Object Storage
 
 It is possible to download or upload all your images to Oracle Cloud Infrastructure Object Storage.
 
