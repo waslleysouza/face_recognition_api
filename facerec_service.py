@@ -121,6 +121,9 @@ def add(file, name, rotate):
 print("facerec_service loaded!")
 utils.create_directories([IMAGE_UPLOAD_DIR, IMAGE_ORIGINAL_DIR, IMAGE_PREPARED_DIR])
 config = oci.config.from_file(OCI_CONFIG_PATH, "DEFAULT")
-oci_utils.syncronize_with_object_storage(config, IMAGE_ORIGINAL_DIR, OCI_STORAGE_BUCKET_NAME)
+
+if OCI_STORAGE_SYNC:
+    oci_utils.syncronize_with_object_storage(config, IMAGE_ORIGINAL_DIR, OCI_STORAGE_BUCKET_NAME)
+	
 face_recognition = face.Recognition()
 #train()
