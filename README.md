@@ -5,23 +5,23 @@
 
 ## Basic Instalation - UBUNTU
 
-1) Clone this project:
-$ git clone https://github.com/waslleysouza/face_recognition_api
+1) Clone this project
+    $ git clone https://github.com/waslleysouza/face_recognition_api
 
-2) Go to face_recognition_api folder:
-$ cd face_recognition_api
+2) Go to face_recognition_api folder
+    $ cd face_recognition_api
 
-3) Start the application:
-  - If you have CPU:
-    $ chmod +x start-cpu.sh
-    $ ./start-cpu.sh
+3) Start the application
+    - If you have CPU:
+        $ chmod +x start-cpu.sh
+        $ ./start-cpu.sh
 
-  - If you have GPU:
-    $ chmod +x start-gpu.sh
-    $ ./start-gpu.sh
+    - If you have GPU:
+        $ chmod +x start-gpu.sh
+        $ ./start-gpu.sh
 
 4) Open your browser and access the Console:
-http://<HOST_IP>:5000/ui
+    http://<HOST_IP_OR_LOCALHOST>:5000/ui
 
 
 ## Oracle Cloud Infrastructure Object Storage
