@@ -3,23 +3,25 @@
 ![Architecture](docs/architecture.png)
 
 
-## Basic Instalation
+## Basic Instalation - UBUNTU
 
-UBUNTU: If you are using Ubuntu, run: $ sudo apt-get install -y libsm6 libxext6 libxrender-dev ffmpeg
+1) Clone this project:
+$ git clone https://github.com/waslleysouza/face_recognition_api
 
-WINDOWS: If you are using Windows, download FFmpeg (https://www.ffmpeg.org/download.html) and add the bin folder to your system path.
+2) Go to face_recognition_api folder:
+$ cd face_recognition_api
 
-1) Create a new Python or Anaconda environment: $ conda create -n facerec python=3.6 -y
+3) Start the application:
+  - If you have CPU:
+    $ chmod +x start-cpu.sh
+    $ ./start-cpu.sh
 
-2) Activate your environment: $ activate facerec
+  - If you have GPU:
+    $ chmod +x start-gpu.sh
+    $ ./start-gpu.sh
 
-3) Install the packages of the requirement.txt file: 
-    - If you have CPU: $ pip install -r requirement-cpu.txt
-    - If you have GPU: $ pip install -r requirement-gpu.txt
-
-4) Start the application: $ python server.py
-
-5) Open your browser and access the Console: http://<HOST_IP_OR_LOCALHOST>:5000/ui
+4) Open your browser and access the Console:
+http://<HOST_IP>:5000/ui
 
 
 ## Oracle Cloud Infrastructure Object Storage
