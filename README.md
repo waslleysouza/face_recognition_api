@@ -20,7 +20,7 @@ $ cd face_recognition_api
         $ chmod +x install-app-gpu.sh<br />
         $ ./install-app-gpu.sh
 		
-4) Start the application:
+4) Start the application:<br />
 $ ./start-app.sh
 
 5) Open your browser and access the Console:<br />
