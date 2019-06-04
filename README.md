@@ -11,16 +11,19 @@ $ git clone https://github.com/waslleysouza/face_recognition_api
 2) Go to face_recognition_api folder:<br />
 $ cd face_recognition_api
 
-3) Start the application:
+3) Install the application:
     - If you have CPU:<br />
-        $ chmod +x start-cpu.sh<br />
-        $ ./start-cpu.sh
+        $ chmod +x install-app-cpu.sh<br />
+        $ ./install-app-cpu.sh
 
     - If you have GPU:<br />
-        $ chmod +x start-gpu.sh<br />
-        $ ./start-gpu.sh
+        $ chmod +x install-app-gpu.sh<br />
+        $ ./install-app-gpu.sh
+		
+4) Start the application:
+$ ./start-app.sh
 
-4) Open your browser and access the Console:<br />
+5) Open your browser and access the Console:<br />
     http://<HOST_IP>:5000/ui
 
 
